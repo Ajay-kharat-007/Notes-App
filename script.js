@@ -56,3 +56,6 @@ function deleteNote(index){
     localStorage.setItem("notes",JSON.stringify(notesObj))
     showNotes();
 }
+
+// To all who are watching this code must do
+//  one task create a function for search notes in this page
